@@ -1,0 +1,95 @@
+body { text-align: center;}
+
+#logo {
+	width:100% !important;
+	max-width: 320px !important;
+	margin:0 auto !important;
+	float:none !important;
+	text-align: center !important;
+}
+
+#getstarted {
+	float:none !important;
+}
+
+.iecol {
+	width:33.33333333% !important;
+	float:left !important;
+}
+
+.iecol5 {
+	width:50% !important;
+	float:left !important;
+}
+}
+.android-stories {
+	height:1px !important;
+}
+
+.fp-txt .justify {
+	width:50% !important;
+	float:left !important;
+	padding-top:20px !important;
+}
+
+#fp-vid {
+	width:50% !important;
+	float:right !important;
+}
+
+.right {
+	float:none !important;
+	width:50% !important;
+}
+
+.whyus-bldng {
+	width:48% !important;
+	float:left !important;
+	clear:both !important;
+	padding-bottom: 20px !important;
+}
+
+.ietxt {
+	text-align: justify;
+	width:48% !important;
+}
+
+#sr-empt-btn, #sr-fill-btn {
+	width:50% !important;
+	margin:0 auto !important;
+	color:#fff !important;
+	background-color: #292929 !important;
+}
+
+.crown-pic {
+		float:none !important;
+		margin:0 auto !important;
+	}
+
+.iepad {
+	padding-top: 15px;
+}
+
+.srvc-container h4 {
+	text-align: center !important;
+}
+
+.srvc-container p {
+	text-align: center !important;
+}
+
+.csm-pic {
+	width:48% !important;
+	float:right;
+}
+
+.csm-txt {
+	width:48% !important;
+	float:left;
+
+}
+
+label {
+	float:left !important;
+	text-align: left !important;
+}
